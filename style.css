@@ -1,0 +1,24 @@
+SONGLIST {
+    background-color: #ffffff;
+    width: 100%;
+}
+SONG {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+TITLE {
+    display: block;
+    color: #3a31af;
+    font-size: 20pt;
+}
+ARTIST {
+    display: block;
+    color: #3a86b8;
+    font-size: 20pt;
+}
+GENRE, YEAR {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}

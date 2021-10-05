@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="style.css"?>
+
+
+<SETLIST>
+    <SONG>
+        <TITLE>Lingus</TITLE>
+        <ARTIST>Snarky Puppy</ARTIST>
+        <GENRE>Jazz Fusion</GENRE>
+        <YEAR>2014</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Limelight</TITLE>
+        <ARTIST>Rush</ARTIST>
+        <GENRE>Progressive Rock</GENRE>
+        <YEAR>1981</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>The Spirit of Radio</TITLE>
+        <ARTIST>Rush</ARTIST>
+        <GENRE>Progressive Rock</GENRE>
+        <YEAR>1980</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Reelin' in the Years</TITLE>
+        <ARTIST>Steely Dan</ARTIST>
+        <GENRE>Rock</GENRE>
+        <YEAR>1972</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>That's All</TITLE>
+        <ARTIST>Genesis</ARTIST>
+        <GENRE>Progressive Rock</GENRE>
+        <YEAR>1983</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>More Than a Feeling</TITLE>
+        <ARTIST>Boston</ARTIST>
+        <GENRE>Rock</GENRE>
+        <YEAR>1976</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>What about Me?</TITLE>
+        <ARTIST>Snarky Puppy</ARTIST>
+        <GENRE>Jazz Fusion</GENRE>
+        <YEAR>2014</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>25 or 6 to 4</TITLE>
+        <ARTIST>Chicago</ARTIST>
+        <GENRE>Rock</GENRE>
+        <YEAR>1970</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Birdland</TITLE>
+        <ARTIST>Weather Report</ARTIST>
+        <GENRE>Jazz Fusion</GENRE>
+        <YEAR>1977</YEAR>
+    </SONG>
+    <SONG>
+        <TITLE>Dean Town</TITLE>
+        <ARTIST>Vulfpeck</ARTIST>
+        <GENRE>Funk</GENRE>
+        <YEAR>2016</YEAR>
+    </SONG>
+</SETLIST>
